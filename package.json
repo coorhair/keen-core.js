@@ -1,18 +1,18 @@
 {
-  "name": "keen-core",
+  "name": "@regang/keen-core",
   "version": "0.2.0",
   "description": "Core functionality powering Keen IO's modular JavaScript SDKs",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/keen/keen-core.js.git"
+    "url": "git+https://github.com/coorhair/keen-core.js.git"
   },
   "author": "Dustin Larimer <dustin@keen.io>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/keen/keen-core.js/issues"
+    "url": "https://github.com/coorhair/keen-core.js/issues"
   },
-  "homepage": "https://github.com/keen/keen-core.js#readme",
+  "homepage": "https://github.com/coorhair/keen-core.js#readme",
   "devDependencies": {
     "browserify": "^13.0.0",
     "gulp": "^3.9.1",

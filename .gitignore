@@ -10,3 +10,4 @@ test/*.map
 # Misc
 .awspublish-keen-js
 .DS_Store
+desktop.ini
